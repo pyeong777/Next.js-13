@@ -2740,7 +2740,7 @@ __metadata:
     autoprefixer: 10.4.14
     eslint: 8.40.0
     eslint-config-next: 13.4.1
-    next: 13.4.1
+    next: latest
     postcss: 8.4.23
     react: 18.2.0
     react-dom: 18.2.0
@@ -2783,7 +2783,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:13.4.1":
+"next@npm:latest":
   version: 13.4.1
   resolution: "next@npm:13.4.1"
   dependencies:
