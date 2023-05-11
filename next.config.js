@@ -23,6 +23,18 @@ const nextConfig = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      {
+        source: "/privacy",
+        destination: "/about/me/privacy",
+      },
+      {
+        source: "/itmes/:slug",
+        destination: "/products/:slug",
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
