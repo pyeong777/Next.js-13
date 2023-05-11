@@ -2,16 +2,19 @@
   {
     "id": "1234",
     "name": "청바지revalidate222",
-    "price": 5000
+    "price": 5000,
+    "image": "testimage.jpeg"
   },
   {
     "id": "1235",
     "name": "티셔츠",
-    "price": 7000
+    "price": 7000,
+    "image": "testimage.jpeg"
   },
   {
     "id": "1236",
     "name": "부츠",
-    "price": 3000
+    "price": 3000,
+    "image": "testimage.jpeg"
   }
 ]
